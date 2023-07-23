@@ -1,1 +1,2 @@
 # Road-Accident-Dashboard
+A road accident dashboard is a data visualization tool that provides real-time or historical information about road accidents. It aims to present accident-related data in a user-friendly and easily digestible format for various stakeholders, including government agencies, law enforcement, traffic management authorities, and the general public. The dashboard typically includes interactive charts, maps, and graphs that offer insights into road safety and accident trends.
